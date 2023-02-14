@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/ntp.png</file>
+        <file>image/nvr.png</file>
+        <file>image/gif.gif</file>
+    </qresource>
+</RCC>

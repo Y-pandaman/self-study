@@ -1,0 +1,9 @@
+#ifndef DONXML_H
+#define DONXML_H
+
+class DonXML {
+public:
+  DonXML();
+};
+
+#endif // DONXML_H

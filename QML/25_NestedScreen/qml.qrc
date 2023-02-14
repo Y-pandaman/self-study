@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/1.png</file>
+        <file>images/bg.jpg</file>
+        <file>images/folder.png</file>
+        <file>images/icon.ico</file>
+        <file>Home.qml</file>
+        <file>Profile.qml</file>
+        <file>About.qml</file>
+        <file>EditProfile.qml</file>
+    </qresource>
+</RCC>

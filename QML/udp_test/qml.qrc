@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>common/MyButton.qml</file>
+        <file>common/MyTextEdit.qml</file>
+        <file>common/MyTextArea.qml</file>
+    </qresource>
+</RCC>

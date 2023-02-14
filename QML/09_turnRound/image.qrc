@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/3.png</file>
+        <file>image/BackgroundColor.bmp</file>
+        <file>image/PersonalFormBG.jpg</file>
+    </qresource>
+</RCC>
